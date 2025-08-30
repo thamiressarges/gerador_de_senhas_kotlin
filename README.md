@@ -1,6 +1,6 @@
 # 🔑 Gerador de Senhas em Kotlin   
 
-![Banner do Projeto](.images/cover_gerador_de_senhas.png)
+![Banner do Projeto](./images/cover_gerador_de_senhas.png)
 
 ## 📌 Sobre o Projeto  
 O **Gerador de Senhas em Kotlin** é um aplicativo simples e funcional desenvolvido para dispositivos Android.  
